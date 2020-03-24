@@ -1,2 +1,5 @@
 # my-first-angular-app
-Learning Angular
+Learning Angular and this is my first app!
+
+
+With help from Academind
