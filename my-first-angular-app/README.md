@@ -1,12 +1,6 @@
-# my-first-angular-app
-Learning Angular and this is my first app!
+# MyFirstAngularApp
 
-
-With help from Academind
-
-# MyFirstApp
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.8.
 
 ## Development server
 
@@ -27,6 +21,7 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 ## Running end-to-end tests
 
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+Before running the tests make sure you are serving the app via `ng serve`.
 
 ## Further help
 
